@@ -1,0 +1,4 @@
+{
+  "jwtSecret": "secret",
+  "mongoURI": "mongodb+srv://vidlyuser:12341234@cluster0-d24ji.mongodb.net/contact-keeper?retryWrites=true"
+}
